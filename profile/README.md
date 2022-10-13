@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://isce.app/static/media/logofull-dark.799050dcfe6253adf98e.webp" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://firebasestorage.googleapis.com/v0/b/iscecard.appspot.com/o/Asset%2012.png?alt=media&token=4e6d4e9e-d080-4164-8730-558d1997de61" alt="Markdownify" width="200"></a>
   <br>
   ISCE Digital Concept
   <br>
