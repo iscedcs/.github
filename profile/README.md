@@ -17,12 +17,3 @@ With deep understanding of modern technology and strong expertise in multiple bu
 ## Services
 
 Developing custom software products tailored to specific business needs of our clients and support them throughout the whole process: from an idea to its implementation.
-
-## Technologies
-
-Developing custom software products tailored to specific business needs of our clients and support them throughout the whole process: from an idea to its implementation.
-
-- [React JS](https://reactjs.org).
-- [React Native](https://reactnative.dev).
-- [PHP/Laravel](https://laravel.com).
-- [Node JS](https://nodejs.org/en).
